@@ -2,11 +2,11 @@
     color: #fff;
     background-position-y: 10%;
     color: #fff;
-    background-color: #800000;
+    background-color: blue;
 }
 
 .btn-primary {
-    background-color: #800000;
+    background-color:blue;
     border-color: #fff;
     font-weight: bold;
 }
